@@ -1,0 +1,1 @@
+../dailydialog/build.py

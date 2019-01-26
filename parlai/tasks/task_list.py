@@ -774,4 +774,18 @@ task_list = [
             "for more information."
         )
     },
+    {
+        "id": "DailyDialog_Emotion",
+        "display_name": "Daily Dialog -- Emotion",
+        "task": "dailydialog_emotion",
+        "tags": ["All", "ChitChat"],
+        "description": (
+            "Emotion detector for "
+            "A dataset of chitchat dialogues with strong annotations for "
+            "topic, emotion and utterance act. This version contains both sides "
+            "of every conversation, and uses the official train/valid/test splits "
+            "from the original authors. See https://arxiv.org/abs/1710.03957 "
+            "for more information."
+        )
+    },
 ]
